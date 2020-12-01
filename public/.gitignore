@@ -1,0 +1,6 @@
+# Ignore tudo
+*
+
+# Menos esses arquivos
+!index.php
+!.gitignore
