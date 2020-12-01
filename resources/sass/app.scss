@@ -1,3 +1,5 @@
-h3 {
-    color: grey;
-}
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
