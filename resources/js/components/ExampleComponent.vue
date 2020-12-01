@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h3>example-component</h3>
+        <h3 class="text-teal-500">example-component</h3>
     </div>
 </template>
 
